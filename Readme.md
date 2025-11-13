@@ -41,3 +41,10 @@ Include player vs player mode
 Track win history using local storage
 
 Add a timer-based challenge mode
+
+
+
+## 👨‍💻 Author
+**Sachin Gowda**
+
+If you like this project, don't forget to ⭐ the repo!
